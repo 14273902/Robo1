@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>week_2</name>
+  <version>0.1.0</version>
+  <description>ROS 2 package for Week 2 exercises to process and publish subsets of LaserScan data</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+

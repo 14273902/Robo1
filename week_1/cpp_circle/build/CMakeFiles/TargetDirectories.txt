@@ -1,0 +1,10 @@
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/uninstall.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/cpp_circle_uninstall.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/image_processor.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/test.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/edit_cache.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/rebuild_cache.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/list_install_components.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/install.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/install/local.dir
+/home/student/ros2_ws/src/week_1/cpp_circle/build/CMakeFiles/install/strip.dir
