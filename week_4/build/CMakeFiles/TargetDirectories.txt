@@ -1,0 +1,10 @@
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/uninstall.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/week_4_uninstall.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/dead_reckoning_node.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/test.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/edit_cache.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/rebuild_cache.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/list_install_components.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/install.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/install/local.dir
+/home/student/ros2_ws/src/Robo1/week_4/build/CMakeFiles/install/strip.dir
